@@ -125,7 +125,7 @@ function App() {
         </div>
 
         <div className='solar-panel'>
-          <CalcButton className='name' buttonLabel={'Luis Nicholas D. Reyes'} onClick={myNameClickHandler}/>
+          <CalcButton className='name' buttonLabel={'Reyes'} onClick={myNameClickHandler}/>
         </div>
 
       </div>
